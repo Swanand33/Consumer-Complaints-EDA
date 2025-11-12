@@ -1,0 +1,15 @@
+# Core Data Analysis
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Excel file handling
+openpyxl==3.1.5
+
+# Jupyter Notebook
+jupyter==1.1.1
+notebook==7.2.2
+ipykernel==6.29.5
